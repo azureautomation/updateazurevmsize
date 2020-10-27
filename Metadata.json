@@ -1,0 +1,20 @@
+{
+    "Author": "Andrew Weiss [Docker]",
+    "ContentSize": 5697,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/updateazurevmsize/master/Update-AzureVMSize.ps1",
+    "DownloadCount": 1904,
+    "Id": "Update-AzureVMSize-0a876be6",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 553,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-11-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This workflow can be used to asynchronously modify the instance size of multiple Azure VMs.  This workflow can also be packaged as a portable module for use with Windows Azure Pack Service Management Automation.",
+    "Title": "Update-AzureVMSize",
+    "UpdatedDate": "2013-11-21T00:00:00",
+    "Url": "https://github.com/azureautomation/updateazurevmsize",
+    "UserTags": "Microsoft Azure, Powershell, Windows Azure Virtual Machines"
+}
